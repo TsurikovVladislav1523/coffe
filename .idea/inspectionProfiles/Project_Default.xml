@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.LoginClass.str_password" />
+          <option value="main.LoginClass.str_login" />
+          <option value="main.Registration.login_str" />
+          <option value="main.Registration.ok" />
+          <option value="main.SkladClass.count_of_productions" />
+          <option value="main.ProductionClass.save_production" />
+          <option value="main.ChoiseClass.all_product_btn" />
+          <option value="main.ChoiseClass.append_sklad" />
+          <option value="main.LoginClass.check_login" />
+          <option value="main.Registration.save_reg" />
+          <option value="main.SkladClass.add_production" />
+          <option value="main.ChoiseClass.open_sklad" />
+          <option value="main.Test.registr" />
+          <option value="main.Test.login" />
+          <option value="main.Registration.password_str" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
